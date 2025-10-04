@@ -1,5 +1,7 @@
 {
   "name": "PDF RAG Chatbot",
   "description": "A chatbot that answers questions from uploaded PDFs using Retrieval-Augmented Generation (RAG). It allows users to upload a PDF, choose a text chunking strategy, and ask questions about the document's content.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [
+    "microphone"
+  ]
 }
