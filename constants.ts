@@ -1,0 +1,6 @@
+
+export const CHUNK_SIZE_FIXED = 1000;
+export const CHUNK_OVERLAP_FIXED = 100;
+
+export const CHUNK_SIZE_RECURSIVE = 1000;
+export const CHUNK_OVERLAP_RECURSIVE = 100;
